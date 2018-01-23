@@ -23,6 +23,4 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
-# Youtube_View
-# Youtube_View
-# Youtube_View
+/home/parag/Pictures/Screenshot from 2018-01-23 13-43-58.png
